@@ -18,6 +18,11 @@ All 'internship' files require the following fields:
     - @link (THIS IS A MARKDOWN LINK)
   1x H2 Description Section
 
+### How to Contribute
+Contributions can be made as a pull request to this repo.
+I plan on hopefully having a CI service set up to just
+check if the information was valid. I'll get around to it...
+
 ## ToDo
   - [] Add more internships
   - [] Write a Wiki
