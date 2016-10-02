@@ -24,7 +24,9 @@ I plan on hopefully having a CI service set up to just
 check if the information was valid. I'll get around to it...
 
 ### Project Management
-Currently using ZenHub to add issues for this repo.
+Currently using GitHub Projects. There's a tab at the top
+of the repo that you can click to add issues to
+Projects, stories, etc.
 
 ## Becoming a Main Contributor
 Just ask, and I'm sure I'd just add you directly to the repo to
