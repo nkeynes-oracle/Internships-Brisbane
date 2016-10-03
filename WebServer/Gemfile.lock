@@ -15,6 +15,7 @@ GEM
     rack-test (0.6.3)
       rack (>= 1.0)
     rainbow (2.1.0)
+    rake (10.4.2)
     rdiscount (2.2.0.1)
     rspec (3.5.0)
       rspec-core (~> 3.5.0)
@@ -60,6 +61,7 @@ PLATFORMS
 
 DEPENDENCIES
   puma
+  rake
   rdiscount
   rspec
   rubocop

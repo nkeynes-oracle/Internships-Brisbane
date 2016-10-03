@@ -17,6 +17,10 @@ gem 'sass'
 # ---- Markdown Support ------
 gem 'rdiscount'
 
+group :development, :test do
+  gem 'rake'
+end
+
 group :test do
   gem 'rubocop'
   gem 'rspec'
