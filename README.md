@@ -28,6 +28,10 @@ Currently using GitHub Projects. There's a tab at the top
 of the repo that you can click to add issues to
 Projects, stories, etc.
 
+### Testing
+Tests can be run using Ruby via running `rake test` in the
+WebServer directory.
+
 ## Becoming a Main Contributor
 Just ask, and I'm sure I'd just add you directly to the repo to
 make changes.
