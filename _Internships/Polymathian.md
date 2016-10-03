@@ -1,7 +1,7 @@
 # Polymathian Summer Scholars Program
 ![polymathian logo](https://polymathian.com/static/img/polymathian-industrial-mathematics-small-view-port.png)
 
-# Preamble
+## Preamble
 - @company Polymathian
 - @location South Brisbane
 - @length 12 weeks, with the possibility for ongoing casual employment
@@ -18,4 +18,3 @@ Polymathian in partnership with The University of Queensland and Queensland Univ
 In previous years students have come from mathematics, computer science and physics faculties.
 
 Scholars get to work on a combination of a specific research and development project as well as gaining exposure to currently running Polymathian projects.
-
