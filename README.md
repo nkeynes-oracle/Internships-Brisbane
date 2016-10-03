@@ -1,4 +1,7 @@
 # Internships-Brisbane
+
+[![Build Status](https://travis-ci.org/byronmejia/Internships-Brisbane.svg?branch=master)](https://travis-ci.org/byronmejia/Internships-Brisbane)
+
 This repo holds internships coming up in Brisbane, aimed
 towards the 'summer' period of 2016/2017.
 
