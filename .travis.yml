@@ -2,3 +2,5 @@ language: ruby
 rvm:
   - 2.3.1
 before_install: cd WebServer
+script:
+  - bundle exec rake test
