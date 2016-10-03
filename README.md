@@ -2,6 +2,10 @@
 
 [![Build Status](https://travis-ci.org/byronmejia/Internships-Brisbane.svg?branch=master)](https://travis-ci.org/byronmejia/Internships-Brisbane)
 
+[![Code Climate](https://codeclimate.com/github/byronmejia/Internships-Brisbane/badges/gpa.svg)](https://codeclimate.com/github/byronmejia/Internships-Brisbane)
+
+![Beast Status](https://img.shields.io/badge/Beast%20Mode-On-brightgreen.svg)
+
 This repo holds internships coming up in Brisbane, aimed
 towards the 'summer' period of 2016/2017.
 
