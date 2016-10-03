@@ -3,13 +3,19 @@ source 'https://rubygems.org'
 #ruby-gemset=Internships
 ruby '2.3.1'
 
-# -------- Rack Server -------
+# -------- Web Server --------
 gem 'puma'
 
 # -------- Web Server --------
 gem 'sinatra'
 gem 'sinatra-contrib'
-gem 'mongoid'
+
+# ------ Hacking Pretty ------
+gem 'slim'
+gem 'sass'
+
+# ---- Markdown Support ------
+gem 'rdiscount'
 
 group :test do
   gem 'rubocop'

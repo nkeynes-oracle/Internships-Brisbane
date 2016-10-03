@@ -1,4 +1,3 @@
-require_relative '../lib/internship_digest'
 require 'rspec'
 
 files = Dir.glob(
@@ -91,7 +90,6 @@ files.each do |filename|
 
           until @file.eof? || line.strip.empty? do
             line = @file.readline
-            puts line
             contains = true if(line.downcase[/(@applicationdue)/])
           end
           fail('No applicationDue tag!') unless contains
