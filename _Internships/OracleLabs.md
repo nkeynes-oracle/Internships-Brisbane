@@ -17,12 +17,12 @@ Oracle Labs is the research division of Oracle. It focuses on applied research t
 Oracle Labs Australia (http://labs.oracle.com/locations/australia), based in Brisbane, specialises in Program Analysis in a variety of domains, including bug-checking, productivity tools, security analysis, testing, and more. The Brisbane team hit the headlines with its research on static code analysis that lead to scalable and precise bug-checking algorithms embedded in the Parfait tool.
 
 Available projects:
-Oracle Labs #1 - [Experiments in improving precision of points-to analysis](http://corptech.com.au/index.php/component/ceed/projects/view?id=2332)
-Oracle Labs #2 - [Optimisation for experimental Datalog compiler](http://corptech.com.au/index.php/component/ceed/projects/view?id=2333)
-Oracle Labs #3 - [Evaluating different security models](http://corptech.com.au/index.php/component/ceed/projects/view?id=2334)
-Oracle Labs #4 - [Inter-procedural extensions for experimental Datalog compiler](http://corptech.com.au/index.php/component/ceed/projects/view?id=2335)
-Oracle Labs #5 - [Automated dynamic analysis of JavaScript web application - Jalangi](http://corptech.com.au/index.php/component/ceed/projects/view?id=2336)
-Oracle Labs #6 - [Design & develop C++ specific defects in Parfait static analysis tool](http://corptech.com.au/index.php/component/ceed/projects/view?id=2337)
-Oracle Labs #7 - [Extend Parfait static analysis tool to report compiler-level issues](http://corptech.com.au/index.php/component/ceed/projects/view?id=2338)
+  - Oracle Labs #1 - [Experiments in improving precision of points-to analysis](http://corptech.com.au/index.php/component/ceed/projects/view?id=2332)
+  - Oracle Labs #2 - [Optimisation for experimental Datalog compiler](http://corptech.com.au/index.php/component/ceed/projects/view?id=2333)
+  - Oracle Labs #3 - [Evaluating different security models](http://corptech.com.au/index.php/component/ceed/projects/view?id=2334)
+  - Oracle Labs #4 - [Inter-procedural extensions for experimental Datalog compiler](http://corptech.com.au/index.php/component/ceed/projects/view?id=2335)
+  - Oracle Labs #5 - [Automated dynamic analysis of JavaScript web application - Jalangi](http://corptech.com.au/index.php/component/ceed/projects/view?id=2336)
+  - Oracle Labs #6 - [Design & develop C++ specific defects in Parfait static analysis tool](http://corptech.com.au/index.php/component/ceed/projects/view?id=2337)
+  - Oracle Labs #7 - [Extend Parfait static analysis tool to report compiler-level issues](http://corptech.com.au/index.php/component/ceed/projects/view?id=2338)
 
 To apply:  interested students must register and apply via CEED's website - www.corptech.com.au before the application closing date (midnight Sunday 16 October). Applicants must also upload their resume including student ID & academic transcript/s (undergrad + Masters if applicable), before the closing date.
